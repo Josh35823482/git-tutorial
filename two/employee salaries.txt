@@ -1,0 +1,12 @@
+manager				500,000
+assist. manager			350,000
+Desk-staff			150,000
+chef				200,000
+Runner				60,000
+Care-givers			50,000
+stand-by			50,000
+cleaners			40,000
+security			50,000
+
+This is the minimal wage i can offer for a startup.
+Remain blessed.
